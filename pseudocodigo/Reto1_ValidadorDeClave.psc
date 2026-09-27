@@ -1,0 +1,2 @@
+Algoritmo CAJERO_AUTOMATICO
+FinAlgoritmo
